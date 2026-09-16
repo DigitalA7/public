@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français consacré à l’écosystème Solend : monorepo, SDK, client léger et liquidateur. Voir [le sommaire](docs/fr/README.md).
+
 # Solend Public
 Solend public is a monorepo of public reposititories meant to benefit from a yarn workspace setup. This includes:
 - Solend SDK, a Typescript SDK for interacting with the Solend program
